@@ -1,2 +1,3 @@
 # New Project
-This project was created from local system.created by saloni saroha
+This project was created from local system.
+Created by Saloni Saroha.
